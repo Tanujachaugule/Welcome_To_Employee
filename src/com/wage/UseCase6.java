@@ -50,7 +50,7 @@ public class UseCase6 {
             }
             dailysalary = workHours * salaryPerhours;
             System.out.println("daily Salary is " + dailysalary);
-            public static void partEmp();
+    //        public static void partEmp();
         {
             int partWorkingDay = 0;
             int partMonth = 0;
@@ -75,7 +75,7 @@ public class UseCase6 {
                     }
                 }
                 System.out.println("Part Time Employee is Present for " + partWorkingDay + " Days");
-                int wagePerDay = 0;
+             //   int wagePerDay = 0;
                 int partWage = wagePerDay * partWorkingDay;
                 System.out.println("Daily Wage of Part Time Employee : " + partWage);
                 System.out.println("Part Time Employee was Absent for " + partAbsDays + " Days");
